@@ -1,0 +1,1 @@
+# mod_jhipster_jwt_token_validation
